@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: deploy
+# Cookbook Name:: wordpress
 # Recipe:: php
 #
 
